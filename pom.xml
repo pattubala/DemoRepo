@@ -252,6 +252,8 @@
         <tomcat.version>7.0.72</tomcat.version>
       </properties>
     </profile> -->
+<!--
+	  
 	<profile>
       <id>sonar-coverage</id>
       <activation>
@@ -299,7 +301,8 @@
         </plugins>
       </build>
     </profile>
-	
+
+ -->
   </profiles>
 
 </project>
